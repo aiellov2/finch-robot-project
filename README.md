@@ -5,9 +5,8 @@ How can we apply object-oriented programming principles and Java concepts to cre
 
 ## Project Overview
 In this project-based learning experience, you will program a Finch 2.0 robot to perform one of three challenges:
-1. Choreograph a dance routine (with movement, lights, and sound)
-2. Create an artistic drawing using the robot's movements
-3. Navigate a maze autonomously
+1. Create an artistic drawing using the robot's movements
+2. Navigate a maze autonomously
 
 Your program must demonstrate your understanding of Java programming concepts from APCSA and object-oriented design principles while creating an engaging robot behavior.
 
@@ -82,13 +81,6 @@ Your program must include at least 5 of these Java/OOP concepts:
 | **Development & Version Control** | The repository demonstrates excellent use of Git and GitHub by having many commits and updates to one or more branches of the repository | The repository shows great use of Git and GitHub by having more than 2 new commits to the repository | The repository demonstrates basic used of Git and GitHub by having at least 1 new commit to a branch of the repository | The repository only have the initial clone of the or no project submitted |
 
 ## Challenge-Specific Guidelines
-
-### Dance Challenge
-Create a choreographed dance routine for your Finch that synchronizes:
-- Movement patterns (forward/backward, turns)
-- LED light displays (beak and tail)
-- Sound patterns using the buzzer
-- Consider using arrays to store sequences of movements/lights/sounds
 
 ### Drawing Challenge
 Program your Finch to create an artistic drawing:
