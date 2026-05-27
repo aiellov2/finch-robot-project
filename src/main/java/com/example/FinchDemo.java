@@ -15,6 +15,8 @@ public class FinchDemo {
             myFinch.pause(1);
         }
 
+        // Added to commit
+
         myFinch.stopAll();
         myFinch.disconnect();
     }
